@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Wiki Pokemons</string>
+    <string name="text">Pokemon</string>
+    <string name="altura">Altura</string>
+    <string name="peso">Peso</string>
+    <string name="habilidades">Habilidades</string>
+    <string name="url" translatable="false">https://pokeapi.co/api/v2/</string>
+</resources>
